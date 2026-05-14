@@ -1,0 +1,8 @@
+[[d1_databases]]
+binding = "DB"
+database_name = "memos-db"
+database_id = "3d0c5fc4-e143-43f0-acb9-d9dbe9e87cbf"
+
+[[r2_buckets]]
+binding = "R2"
+bucket_name = "memos-r2"
